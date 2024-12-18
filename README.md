@@ -8,6 +8,9 @@ You can access the live version of this project here:
 
 [Simple Calculator](https://omkarjoshi33.github.io/Simple-Calci/)
 
+### Calculator Interface
+
+![Simple Calculator Interface](https://via.placeholder.com/600x400?text=Simple+Calculator)
 ## Features
 
 - Perform basic arithmetic operations: Addition, Subtraction, Multiplication, and Division.
@@ -20,9 +23,7 @@ You can access the live version of this project here:
 - **Tailwind CSS**: For styling and layout customization.
 
 
-### Calculator Interface
 
-![Simple Calculator Interface](https://via.placeholder.com/600x400?text=Simple+Calculator)
 
 
 
