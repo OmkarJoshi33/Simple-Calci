@@ -10,7 +10,7 @@ You can access the live version of this project here:
 
 ### Calculator Interface
 
-![Simple Calculator Interface](https://via.placeholder.com/600x400?text=Simple+Calculator)
+![Simple Calculator Interface]([https://via.placeholder.com/600x400?text=Simple+Calculator](https://github.com/OmkarJoshi33/Simple-Calci/blob/main/SimpleCalci.png))
 ## Features
 
 - Perform basic arithmetic operations: Addition, Subtraction, Multiplication, and Division.
